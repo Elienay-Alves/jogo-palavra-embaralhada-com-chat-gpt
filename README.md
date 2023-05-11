@@ -34,72 +34,24 @@ Fell free to give feedbacks and improvements
 
 * `python3 -m pip install -r dev-requirements.txt`
   
-  4. rode a apliação
-
+  4. Run the application
 * `python3 game.py`
 
   5. Have fun
 </details>
 
 <details>
-  <summary><strong>🧱 Estrutura do Projeto</strong></summary><br />
-  Este repositório já contém um template com a estrutura de diretórios e arquivos, tanto de código quanto de teste criados. Veja abaixo:
+  <summary><strong>🧱 Project Structure</strong></summary><br />
 
+  That is the actual structure of the project:
   ```
-  Legenda:
-  🔸Arquivos que não podem ser alterados
-  🔹Arquivos a serem alterados para realizar os requisitos.
-  .
-  ├── tech_news
-  │   ├── analyzer
-  │   │   ├── 🔹ratings.py
-  │   │   ├── 🔸reading_plan.py
-  │   │   └── 🔹search_engine.py
-  │   ├── 🔸database.py
-  │   └── 🔹menu.py
-  │   └── 🔹scraper.py
-  ├── tests
-  │   ├── reading_plan
-  │   │   ├── 🔸__init__.py
-  │   │   ├── 🔸conftest.py
-  │   │   ├── 🔸mocks.py
-  │   │   └── 🔹test_reading_plan.py
-  │   ├── 🔸assets/*
-  │   ├── 🔸__init__.py
-  │   ├── 🔸marker.py
-  │   ├── 🔸test_menu.py
-  │   ├── 🔸test_ratings.py
-  │   ├── 🔸test_scraper.py
-  │   └── 🔸test_search_engine.py
   ├── 🔸dev-requirements.txt
-  ├── 🔸docker-compose.yml
-  ├── 🔸Dockerfile
-  ├── 🔸pyproject.toml
   ├── 🔸README.md
   ├── 🔸requirements.txt
-  ├── 🔸setup.cfg
-  ├── 🔸setup.py
-  ├── 🔸trybe-filter-repo.sh
-  └── 🔸trybe.yml
+  ├── 🔸game.py
+  ├── 🔸main.py
   ```
 
-  Apesar do projeto já possuir uma **estrutura base**, você perceberá que possui arquivos vazios, ou seja, neles você quem deve implementar as classes. Novos arquivos e funções podem ser criados conforme a necessidade da sua implementação, porém não remova arquivos já existentes.
-
-</details>
-
-<details>
-  <summary><strong>🎛 Linter</strong></summary><br />
-
-  Para garantir a qualidade do código, vamos utilizar neste projeto o linter `Flake8`.
-  Assim o código estará alinhado com as boas práticas de desenvolvimento, sendo mais legível
-  e de fácil manutenção! Para rodá-lo localmente no projeto, execute o comandos abaixo:
-
-  ```bash
-  python3 -m flake8
-  ```
-
-  ⚠️ **PULL REQUESTS COM ISSUES DE LINTER NÃO SERÃO AVALIADAS.
-  ATENTE-SE PARA RESOLVÊ-LAS ANTES DE FINALIZAR O DESENVOLVIMENTO!** ⚠️
 </details>
 
 <details>
