@@ -1,4 +1,4 @@
-# Boas-vindas ao repositório do Scrambled Words: AI game
+# Welcome to Scrambled Words: AI game repository
 
 
 
