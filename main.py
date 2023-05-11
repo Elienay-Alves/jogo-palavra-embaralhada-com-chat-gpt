@@ -55,4 +55,4 @@ def game_result(choosed_word: str, user_guesses: str):
     if choosed_word in user_guesses:
         print(f"Você acertou! Parabéns, a palavra é {choosed_word}!")
     else:
-        print(f"Você se fudeu. A palavra certa é: { choosed_word}")
+        print(f"Você perdeu. A palavra certa é: { choosed_word}")
