@@ -20,22 +20,24 @@
 
   1. Clone this repo
 
-* Use this command: `git clone git@github.com:Elienay-Alves/scrambled-words-ai-game.git`
+* Use this command: 
+  * `git clone git@github.com:Elienay-Alves/scrambled-words-ai-game.git`
 * Go into the repository folder you just cloned:
-  * `cd jogo-palavra-embaralhada-com-chat-gpt.git`
-
-  2. Create the virtual environment for the project
-
-* `python3 -m venv .venv && source .venv/bin/activate`
   
-  3. install the dependencies
+  * `cd scrambled-words-ai-game`
 
-* `python3 -m pip install -r dev-requirements.txt`
+2. Create the virtual environment for the project
+
+    * `python3 -m venv .venv && source .venv/bin/activate`
   
-  4. Run the application
-* `python3 game.py`
+3. Install the dependencies
 
-  5. Have fun
+    * `python3 -m pip install -r dev-requirements.txt`
+  
+4. Run the application
+    * `python3 game.py`
+
+5. Have fun
 </details>
 
 <details>
