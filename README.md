@@ -20,7 +20,7 @@
 
   1. Clone this repo
 
-* Use this command: `git clone git@github.com:Elienay-Alves/jogo-palavra-embaralhada-com-chat-gpt.git`
+* Use this command: `git clone git@github.com:Elienay-Alves/scrambled-words-ai-game.git`
 * Go into the repository folder you just cloned:
   * `cd jogo-palavra-embaralhada-com-chat-gpt.git`
 
