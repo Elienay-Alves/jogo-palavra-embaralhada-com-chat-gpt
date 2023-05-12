@@ -59,6 +59,7 @@
   <summary><strong>🗣 Feel free to give feedbacks about this project!</strong></summary><br />
 
   E-mail: elienay8486@gmail.com
+  <br/>
   Linkedin: [Elienay Alves](https://www.linkedin.com/in/elienayalves/)
 
 </details>
